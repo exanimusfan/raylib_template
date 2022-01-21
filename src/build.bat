@@ -1,0 +1,1 @@
+make CC=clang LDFLAGS+="-nostdlib -L..\lib -lraylib -lraylibdll -luser32 -lshell32"
