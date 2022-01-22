@@ -1,0 +1,1 @@
+del *.o raylib_game.html *.ilk *.pdb *.exe
